@@ -1,12 +1,13 @@
 ### Salut, moi c'est William 👋
 
-Je construis **[Octos](https://octos.ca)** — agence d'automatisation IA pour PME au
-Québec.
+Je suis le fondateur de  **[W AUTOMATISATIONS](https://wautomatisations.com/)** Nous sommes une agence d'automatisations IA pour entreprises au Québec.
 
-- 🤖 Agents IA & chatbots custom intégrés au site, CRM, WhatsApp ou Slack
-- ⚙️  Automatisation de processus (Make, n8n, Zapier, Python custom)
-- 📨 Lead generation B2B automatisée (scraping, enrichissement, séquences IA)
+⚙️ / On crée des systèmes pour automatiser
+🤖 / Automatisations et agents IA
+📊 / CRM sur mesure
+🌐 / Sites web📱 Apps iOS
+🔍 / On cartographie → 🛠️ on développe → 🔗 on intègre
+📍 / Partout au Québec 📩
+📲 / WAutomatisations.com
 
-**Stack** : React · Three.js · Node · Supabase · OpenAI / Anthropic
-
-→ [octos.ca](https://octos.ca) · [Réserver un appel](https://calendly.com/williamblaismedia/30min)
+→ [wautomatisations.com](https://wautomatisations.com) · [Réserver un appel](https://booking.wautomatisations.com/team/w-automatisations/decouverte) 
